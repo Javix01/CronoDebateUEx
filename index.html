@@ -178,6 +178,23 @@
         indicator.className = phase.includes("favor") ? "phase-indicator favor" : "phase-indicator contra";
     }
 
+    document.addEventListener("keydown", function (event) {
+        const keyMap = {
+            's': startTimer,
+            'p': pauseTimer,
+            'r': resetTimer,
+            '1': () => changePhase("Introducción a favor"),
+            '2': () => changePhase("Introducción en contra"),
+            '3': () => changePhase("Refutación 1 a favor"),
+            '4': () => changePhase("Refutación 1 en contra"),
+            '5': () => changePhase("Refutación 2 a favor"),
+            '6': () => changePhase("Refutación 2 en contra"),
+            '7': () => changePhase("Conclusión en contra"),
+            '8': () => changePhase("Conclusión a favor")
+        };
+        if (keyMap[event.key]) keyMap[event.key]();
+    });
+
     updateTimerDisplay();
 </script>
 </body>
