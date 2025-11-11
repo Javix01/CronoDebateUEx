@@ -1,8 +1,7 @@
 Links del host.
-- https://crono-torneo-debate-uex.firebaseapp.com
-- https://crono-torneo-debate-uex.web.app
-- https://crono-torneo-debate-uex.web.app/P2.html
-- https://crono-torneo-debate-uex.web.app/P3.html
+- https://cronodebateuex.onrender.com
+- https://cronodebateuex.onrender.com/P2
+- https://cronodebateuex.onrender.com/P3
 
 Todos los archivos funcionan con las siguientes combinaciones de teclas:
 
