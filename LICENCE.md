@@ -18,21 +18,22 @@ Asimismo, deberá mantenerse este archivo de licencia y cualquier aviso de copyr
 
 El Software podrá utilizarse únicamente para:
 
-Fines educativos.
-Actividades académicas.
-Investigación.
-Formación personal.
-Enseñanza en centros educativos.
-Aprendizaje y demostraciones técnicas.
+- Fines educativos.
+- Actividades académicas.
+- Investigación.
+- Formación personal.
+- Enseñanza en centros educativos.
+- Aprendizaje y demostraciones técnicas.
+
 4. Restricciones
 
 No está permitido:
 
-Utilizar el Software con fines comerciales.
-Integrar el Software en productos o servicios de pago.
-Utilizar el Software en actividades empresariales con ánimo de lucro.
-Revender el Software o versiones derivadas.
-Ofrecer servicios basados en el Software a terceros a cambio de contraprestación económica.
+- Utilizar el Software con fines comerciales.
+- Integrar el Software en productos o servicios de pago.
+- Utilizar el Software en actividades empresariales con ánimo de lucro.
+- Revender el Software o versiones derivadas.
+- Ofrecer servicios basados en el Software a terceros a cambio de contraprestación económica.
 
 Cualquier uso distinto de los fines educativos descritos en esta licencia requerirá autorización expresa y por escrito del autor.
 
@@ -40,9 +41,10 @@ Cualquier uso distinto de los fines educativos descritos en esta licencia requer
 
 Se permite modificar y crear obras derivadas del Software, siempre que:
 
-Se mantenga el reconocimiento al autor original.
-Las obras derivadas se distribuyan exclusivamente para fines educativos.
-Se incluya una copia completa de esta licencia.
+- Se mantenga el reconocimiento al autor original.
+- Las obras derivadas se distribuyan exclusivamente para fines educativos.
+- Se incluya una copia completa de esta licencia.
+
 6. Propiedad intelectual
 
 La titularidad y los derechos de propiedad intelectual del Software pertenecen exclusivamente a:
