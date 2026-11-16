@@ -3,6 +3,7 @@ Links del host.
 - https://javix01.github.io/CronoDebateUEx/P2
 - https://javix01.github.io/CronoDebateUEx/P3
 
+-----
 Todos los archivos funcionan con las siguientes combinaciones de teclas:
 
 - S: Iniciar el temporizador
