@@ -1,7 +1,7 @@
 Links del host.
-- https://cronodebateuex.onrender.com
-- https://cronodebateuex.onrender.com/P2
-- https://cronodebateuex.onrender.com/P3
+- https://javix01.github.io/CronoDebateUEx
+- https://javix01.github.io/CronoDebateUEx/P2
+- https://javix01.github.io/CronoDebateUEx/P3
 
 Todos los archivos funcionan con las siguientes combinaciones de teclas:
 
